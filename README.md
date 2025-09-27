@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+image.html
+
 <html>
     <head>
         <title> My City </title>
@@ -134,7 +136,6 @@ lodge.html
 ```
 
 ## OUTPUT
-![alt text](map.png)
 ![alt text](<image screen.png>)
 ![alt text](<china screen.png>)
 ![alt text](<fort screen.png>)
